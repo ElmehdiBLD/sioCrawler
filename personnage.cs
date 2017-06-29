@@ -3,5 +3,8 @@ class personnage {
 		
 		
 	}
+	public lieu regarder(direction direction,int distance){
+		
+	}
 
 }
