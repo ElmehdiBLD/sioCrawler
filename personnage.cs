@@ -4,6 +4,9 @@ class personnage {
 		
 	}
 	public void deplacer (direction direction){
+	}	
+	public lieu regarder(direction direction,int distance){
+	
 		
 	}
 
